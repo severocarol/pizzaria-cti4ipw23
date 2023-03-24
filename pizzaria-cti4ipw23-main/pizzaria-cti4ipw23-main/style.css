@@ -1,0 +1,22 @@
+body{
+    background: #f2f2f2;
+}
+header{
+     background-color: #f37520;
+     min-height: 65px;
+}
+header nav a{
+    color: #fff;
+}
+main{
+    height: calc(100vh - 300px);
+
+}
+footer{
+    background-color:  #454545;
+    padding: 2rem;
+    min-height: 235px;
+}
+section nav{
+    background-color: #ededed;
+}
